@@ -1,19 +1,14 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Meet us
+logo: img/IDC-logo.jpg
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+    text: '203 and 206 IDC school of Design, IIT Bombay - 400 076'
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: "\U0001F923\U0001F923\U0001F923\U0001F923\U0001F923\U0001F923\U0001F923\U0001F923\U0001F923\U0001F923\U0001F923\U0001F923\U0001F923\U0001F923\U0001F923\U0001F923\U0001F923\U0001F923\U0001F923\U0001F923\U0001F923"
 ---
+We meet only through prior summoning.
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+See contact page for individual emails. 
 
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+We respond to emails quicker than whatsapp. 
